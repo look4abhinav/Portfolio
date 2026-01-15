@@ -117,7 +117,7 @@ Recruiters, hiring managers, potential clients, professional network connections
 - Hover effects with ripple animations\n
 ### 3.8 Contact Section
 - Frosted glass contact form with floating labels\n- Contact information:
-  - Email: talk2abhinav@yahoo.com
+  - Email: abhinavsrivastava.here@gmail.com
   - Phone: +91 7839306630
   - Location: Gurugram, Haryana
   - LinkedIn: https://www.linkedin.com/in/look4abhinav

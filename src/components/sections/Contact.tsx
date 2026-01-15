@@ -30,8 +30,8 @@ const contactInfo = [
   {
     icon: "📧",
     label: "Email",
-    value: "talk2abhinav@yahoo.com",
-    link: "mailto:talk2abhinav@yahoo.com",
+    value: "abhinavsrivastava.here@gmail.com",
+    link: "mailto:abhinavsrivastava.here@gmail.com",
   },
   {
     icon: "📱",

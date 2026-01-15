@@ -70,7 +70,7 @@ export function Hero() {
                 </svg>
               </a>
               <a
-                href="mailto:talk2abhinav@yahoo.com"
+                href="mailto:abhinavsrivastava.here@gmail.com"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
