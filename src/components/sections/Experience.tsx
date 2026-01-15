@@ -2,6 +2,19 @@ import { GlassCard } from "@/components/ui/GlassCard";
 
 const experiences = [
   {
+    company: "EXL Services Limited",
+    position: "Legal Data Scientist",
+    duration: "08/2024 - Present",
+    location: "Gurugram, Haryana",
+    responsibilities: [
+      "Manage the entire machine learning life cycle using MLOps best practices, deploying, monitoring, and refreshing models via MLflow and Airflow",
+      "Develop and implement advanced LLM Agents and GenAI solutions alongside traditional predictive models to address diverse business use cases",
+      "Build predictive algorithms to identify customer churn using logistic regression, decision trees, and random forests",
+      "Perform extensive data engineering and cleaning using Python (Pandas) to execute feature engineering on high-dimensional datasets",
+    ],
+    color: "cyan" as const,
+  },
+  {
     company: "Siemens Technology and Services Limited",
     position: "Instrumentation & Control Monitor & Advisors",
     duration: "07/2022 - Present",
