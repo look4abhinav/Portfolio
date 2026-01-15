@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    container_name: Portfolio
+    ports:
+      - "5173:5173"
+    # Load environment variables from your .env file
+    env_file:
+      - .env
+    # Mount the directory so you can edit files locally and see changes (Hot Reload)
+    volumes:
+      - .:/app
+      - /app/node_modules # Prevents local node_modules from overwriting container's
+    # Ensure standard input is open (sometimes needed for Vite interactive mode)
+    stdin_open: true
+    tty: true
+
