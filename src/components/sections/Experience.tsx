@@ -17,7 +17,7 @@ const experiences = [
   {
     company: "Siemens Technology and Services Limited",
     position: "Instrumentation & Control Monitor & Advisors",
-    duration: "07/2022 - Present",
+    duration: "07/2022 - 07/2024",
     location: "Gurugram, Haryana",
     responsibilities: [
       "Manage entire life cycle of projects, including planning, development, testing, deployment and maintenance",
