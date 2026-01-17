@@ -98,7 +98,7 @@ export function Achievements() {
 
           {/* Certifications */}
           <div>
-            <h3 className="text-2xl font-bold text-secondary mb-6">Certifications</h3>
+            <h3 className="text-2xl font-bold text-primary mb-6">Certifications</h3>
             <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
               {certifications.map((cert, index) => (
                 <GlassCard key={index} className="p-6" glow="purple">

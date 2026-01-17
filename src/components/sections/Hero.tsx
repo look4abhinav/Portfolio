@@ -41,10 +41,25 @@ export function Hero() {
               <Button
                 size="lg"
                 variant="outline"
-                className="glass-effect hover:bg-secondary/20 text-secondary border-secondary"
+                className="glass-effect hover:bg-primary/20 text-primary border-primary glow-cyan"
                 onClick={() => scrollToSection("contact")}
               >
                 Get in Touch
+              </Button>
+              <Button
+              size="lg"
+              variant="outline"
+              className="glass-effect hover:bg-primary/20 text-primary border-primary glow-cyan"
+              onClick={() => {
+                const link = document.createElement('a');
+                link.href = '/MyResume.pdf';
+                link.download = 'Resume_Abhinav_Srivastava.pdf';
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+              }}
+              >
+              Download Resume
               </Button>
             </div>
             
@@ -70,7 +85,7 @@ export function Hero() {
                 </svg>
               </a>
               <a
-                href="mailto:abhinavsrivastava.here@gmail.com"
+                href="mailto:srivastava.abhinav@outlook.in"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

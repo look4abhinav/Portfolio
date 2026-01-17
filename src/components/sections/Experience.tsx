@@ -9,7 +9,7 @@ const experiences = [
     responsibilities: [
       "Manage the entire machine learning life cycle using MLOps best practices, deploying, monitoring, and refreshing models via MLflow and Airflow",
       "Develop and implement advanced LLM Agents and GenAI solutions alongside traditional predictive models to address diverse business use cases",
-      "Build predictive algorithms to identify customer churn using logistic regression, decision trees, and random forests",
+      "Build predictive algorithms to identify litigation cost using logistic regression, decision trees, and random forests",
       "Perform extensive data engineering and cleaning using Python (Pandas) to execute feature engineering on high-dimensional datasets",
     ],
     color: "cyan" as const,
@@ -21,7 +21,7 @@ const experiences = [
     location: "Gurugram, Haryana",
     responsibilities: [
       "Manage entire life cycle of projects, including planning, development, testing, deployment and maintenance",
-      "Develop and implement predictive models to identify customer churn using logistic regression, decision trees and random forests",
+      "Develop and implement predictive models to identify litigation cost using logistic regression, decision trees and random forests",
       "Perform feature engineering on high dimensional datasets to improve accuracy of predictive models",
       "Develop and manage AWS resources like Lambda, ECS, S3, API Gateways using AWS CloudFormation and eliminate unused resources",
     ],

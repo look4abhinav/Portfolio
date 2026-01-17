@@ -64,7 +64,7 @@ Recruiters, hiring managers, potential clients, professional network connections
 - Location: Gurugram, Haryana
 - Responsibilities:
   - Manage entire life cycle of projects, including planning, development, testing, deployment and maintenance
-  - Develop and implement predictive models to identify customer churn using logistic regression, decision trees and random forests
+  - Develop and implement predictive models to identify litigation cost using logistic regression, decision trees and random forests
   - Perform feature engineering on high dimensional datasets to improve accuracy of predictive models\n  - Develop and manage AWS resources like Lambda, ECS, S3, API Gateways using AWS CloudFormation and eliminate unused resources
 \n**Tata Consultancy Services Limited**
 - Position: Global Asset Management System
@@ -117,7 +117,7 @@ Recruiters, hiring managers, potential clients, professional network connections
 - Hover effects with ripple animations\n
 ### 3.8 Contact Section
 - Frosted glass contact form with floating labels\n- Contact information:
-  - Email: abhinavsrivastava.here@gmail.com
+  - Email: srivastava.abhinav@outlook.in
   - Phone: +91 7839306630
   - Location: Gurugram, Haryana
   - LinkedIn: https://www.linkedin.com/in/look4abhinav
