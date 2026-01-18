@@ -4,11 +4,19 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "License Plate Detection System",
-    duration: "12/2022 - 01/2023",
+    title: "DataAlchemy",
+    duration: "12/2025 - 12/2025",
     description:
-      "A machine learning model based on YOLO algorithm which can identify and read license plates of vehicles in real time",
-    technologies: ["Python", "YOLO", "Computer Vision", "Machine Learning", "OpenCV"],
+      "An intelligent document processing tool that transforms unstructured PDF documents into structured, analyzable data",
+    technologies: ["Python", "LLM", "PydandicAI"],
+    color: "cyan" as const,
+  },
+  {
+    title: "Pneumonia Detection System",
+    duration: "02/2025 - 03/2025",
+    description:
+      "A PyTorch-based machine learning model that analyzes chest X-ray images to automatically detect and classify pneumonia cases",
+    technologies: ["Python", "Computer Vision", "Machine Learning", "OpenCV"],
     color: "cyan" as const,
   },
   {

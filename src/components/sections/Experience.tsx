@@ -3,7 +3,7 @@ import { GlassCard } from "@/components/ui/GlassCard";
 const experiences = [
   {
     company: "EXL Services Limited",
-    position: "Legal Data Scientist",
+    position: "MLOps Engineer",
     duration: "08/2024 - Present",
     location: "Gurugram, Haryana",
     responsibilities: [
@@ -16,7 +16,7 @@ const experiences = [
   },
   {
     company: "Siemens Technology and Services Limited",
-    position: "Instrumentation & Control Monitor & Advisors",
+    position: "Data Scientist",
     duration: "07/2022 - 07/2024",
     location: "Gurugram, Haryana",
     responsibilities: [
@@ -29,7 +29,7 @@ const experiences = [
   },
   {
     company: "Tata Consultancy Services Limited",
-    position: "Global Asset Management System",
+    position: "DevOps Engineer",
     duration: "06/2019 - 07/2022",
     location: "Lucknow, Uttar Pradesh",
     responsibilities: [
