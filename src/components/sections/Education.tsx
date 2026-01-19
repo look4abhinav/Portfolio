@@ -5,14 +5,14 @@ const education = [
     degree: "B.Tech - C.S.E (Cloud Computing)",
     institution: "Graphic Era University, Dehradun",
     duration: "07/2015 - 05/2019",
-    grade: "CGPA: 8.69",
+    // grade: "CGPA: 8.69",
     color: "purple" as const,
   },
   {
     degree: "Senior Secondary School",
     institution: "Fatima Senior Secondary School, Gonda",
     duration: "2014 - 2015",
-    grade: "Percentage: 85.8%",
+    // grade: "Percentage: 85.8%",
     color: "cyan" as const,
   },
 ];

@@ -3,6 +3,12 @@ import { Badge } from "@/components/ui/badge";
 
 const achievements = [
   {
+    title: "Star Award - Litigation Segmentation",
+    date: "07/2025",
+    description: "Recognied for exceeding expectations and developing litigation cost predicting model",
+    icon: "🌟",
+  },
+  {
     title: "Spot Award - Regional Production Environment",
     date: "07/2023",
     description: "Recognized for taking ownership and developing regional production environment",
@@ -11,7 +17,7 @@ const achievements = [
   {
     title: "Spot Award - Training Initiative",
     date: "04/2023",
-    description: "Acknowledged for driving initiative to train team members in Python and Machine Learning",
+    description: "Recognized for driving initiative to train team members in Python and Machine Learning",
     icon: "🎓",
   },
   {
@@ -19,13 +25,7 @@ const achievements = [
     date: "05/2021",
     description: "Cleared TCS Digital Capability Assessment and promoted to Digital cadre",
     icon: "⚡",
-  },
-  {
-    title: "Best Team Award",
-    date: "09/2020",
-    description: "Received Best Team Award for outstanding contribution to the team",
-    icon: "🌟",
-  },
+  }
 ];
 
 const certifications = [

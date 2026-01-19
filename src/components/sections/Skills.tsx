@@ -6,6 +6,7 @@ const skillCategories = [
     category: "Programming",
     skills: [
       { name: "Python", level: 95 },
+      { name: "C++", level: 80 },
     ],
     color: "cyan" as const,
   },
@@ -23,16 +24,18 @@ const skillCategories = [
     category: "Data Tools",
     skills: [
       { name: "Pandas", level: 95 },
-      { name: "Snowflake", level: 75 },
+      { name: "Polars", level: 85 },
+      { name: "PySpark", level: 80 },
     ],
     color: "pink" as const,
   },
   {
     category: "Cloud & DevOps",
     skills: [
-      { name: "Amazon Web Services", level: 90 },
+      { name: "Amazon Web Services", level: 95 },
+      { name: "MLFlow", level: 90 },
+      { name: "Airflow", level: 85 },
       { name: "Docker", level: 85 },
-      { name: "Jenkins", level: 80 },
     ],
     color: "cyan" as const,
   },
@@ -40,6 +43,9 @@ const skillCategories = [
     category: "Databases",
     skills: [
       { name: "PostgreSQL", level: 85 },
+      { name: "MySQL", level: 85 },
+      { name: "Snowflake", level: 75 },
+      { name: "MongoDB", level: 70 },
     ],
     color: "purple" as const,
   },
