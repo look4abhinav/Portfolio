@@ -6,7 +6,8 @@ const skillCategories = [
     category: "Programming",
     skills: [
       { name: "Python", level: 95 },
-      { name: "C++", level: 80 },
+      { name: "C++", level: 85 },
+      { name: "Shell Script", level: 80 },
     ],
     color: "cyan" as const,
   },
@@ -17,6 +18,8 @@ const skillCategories = [
       { name: "Computer Vision", level: 85 },
       { name: "TensorFlow", level: 85 },
       { name: "PyTorch", level: 80 },
+      { name: "Scikit-learn", level: 80 },
+      { name: "Agentic AI", level: 80 },
     ],
     color: "purple" as const,
   },
